@@ -1,0 +1,12 @@
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\bin\Debug\net6.0\ZoomMeeting.deps.json
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\bin\Debug\net6.0\ZoomMeeting.dll
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\bin\Debug\net6.0\ZoomMeeting.pdb
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.csproj.AssemblyReference.cache
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.AssemblyInfoInputs.cache
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.AssemblyInfo.cs
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.csproj.CoreCompileInputs.cache
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.dll
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\refint\ZoomMeeting.dll
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ZoomMeeting.pdb
+C:\Users\yazilim.stajyer\source\repos\ConsoleApp3\ZoomMeeting\obj\Debug\net6.0\ref\ZoomMeeting.dll
